@@ -1,0 +1,18 @@
+﻿{
+    "X":  2,
+    "Y":  2,
+    "TileID":  "TILE-008",
+    "Rotation":  0,
+    "Floors":  [
+                   "Ground",
+                   "Upper"
+               ],
+    "Doors":  {
+                  "Left":  49,
+                  "Right":  49,
+                  "Bottom":  49,
+                  "Top":  49
+              },
+    "Filename":  "TILE-008-GU-1111.PNG",
+    "Path":  "D:\\house-on-the-hill\\pre-done-house-tiles - renamed\\TILE-008-GU-1111.PNG"
+}
